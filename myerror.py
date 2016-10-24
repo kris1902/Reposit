@@ -1,0 +1,2 @@
+class IBeBack(Exception):
+	pass
